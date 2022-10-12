@@ -1,0 +1,19 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+li {
+  list-style: none;
+}
+
+$--almost-white: #fafafa;
+$--medium-gray: #696969;
+$--almost-black: #141414;
+
+body {
+  font-size: 18px;
+  font-family: "Epilogue", sans-serif;
+  background-color: $--almost-white;
+}
